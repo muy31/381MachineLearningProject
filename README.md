@@ -12,4 +12,4 @@ To run locally:
 
 3. Tip: It may be useful to make a new virtual environment for fresh dependency installation. This is using Python3.13 locally (important due to deprecation of audioop, and need for audioop-lts instead)
 
-4. Open the notebook, and run cells! Don't steal my database key please (only kept for access to database)!
+4. Open the notebook, and run cells! Key to access database removed, so will be unable to grabData
